@@ -14,16 +14,16 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | John Doe"
 PAGE_ICON = ":wave:"
-NAME = "John Doe"
+NAME = "Nepo Rojas"
 DESCRIPTION = """
-Senior Data Analyst, assisting enterprises by supporting data-driven decision-making.
+Científico de Datos.
 """
-EMAIL = "johndoe@email.com"
+EMAIL = "nepo.rojas@gmail.com"
 SOCIAL_MEDIA = {
     "YouTube": "https://youtube.com/c/codingisfun",
     "LinkedIn": "https://linkedin.com",
-    "GitHub": "https://github.com",
-    "Twitter": "https://twitter.com",
+    "GitHub": "https://github.com/niesfutbol",
+    "Twitter": "https://twitter.com/niesfutbol",
 }
 PROJECTS = {
     "🏆 Sales Dashboard - Comparing sales across three stores": "https://youtu.be/Sb0A9i6d320",
