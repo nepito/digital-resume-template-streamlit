@@ -12,7 +12,7 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 
 
 # --- GENERAL SETTINGS ---
-PAGE_TITLE = "Digital CV | John Doe"
+PAGE_TITLE = "CV | Nepo Rojas"
 PAGE_ICON = ":wave:"
 NAME = "Nepo Rojas"
 DESCRIPTION = """
@@ -70,13 +70,13 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
 
 # --- EXPERIENCE & QUALIFICATIONS ---
 st.write('\n')
-st.subheader("Experience & Qulifications")
+st.subheader("Experiencia & Habilidades")
 st.write(
     """
-- ✔️ 7 Years expereince extracting actionable insights from data
-- ✔️ Strong hands on experience and knowledge in Python and Excel
-- ✔️ Good understanding of statistical principles and their respective applications
-- ✔️ Excellent team-player and displaying strong sense of initiative on tasks
+- ✔️ 7 años de experiencia estrayendo información de los datos
+- ✔️ 20 años de experiencia programando y modelando en Fortran, MatLab, Python y R
+- ✔️ Excelente conocimiento de estadística y sus aplicaciones
+- ✔️ Excelente habilidades del trabajo colaborativo
 """
 )
 
@@ -86,9 +86,9 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Scikit-learn, Pandas), SQL, VBA
-- 📊 Data Visulization: PowerBi, MS Excel, Plotly
-- 📚 Modeling: Logistic regression, linear regression, decition trees
+- 👩‍💻 Programacón: Python y R
+- 📊 Visualización de datos: Plotly, Bokeh, ggplot y LockerStudio
+- 📚 Modelación: Logistic regression, linear regression, decition trees
 - 🗄️ Databases: Postgres, MongoDB, MySQL
 """
 )
@@ -96,7 +96,7 @@ st.write(
 
 # --- WORK HISTORY ---
 st.write('\n')
-st.subheader("Work History")
+st.subheader("Experiencia Laboral")
 st.write("---")
 
 # --- JOB 1
@@ -124,6 +124,7 @@ st.write(
 
 st.write('\n')
 st.subheader("Educación")
+st.write("---")
 st.write(
     """
     - 🎓 **Licenciado en Física** | Universidad de Sonora (2014-2010)
