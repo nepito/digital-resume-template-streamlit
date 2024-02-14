@@ -20,8 +20,8 @@ Científico de Datos.
 """
 EMAIL = "nepo.rojas@gmail.com"
 SOCIAL_MEDIA = {
-    "YouTube": "https://youtube.com/c/codingisfun",
-    "LinkedIn": "https://linkedin.com",
+#    "YouTube": "https://youtube.com/c/codingisfun",
+    "LinkedIn": "https://www.linkedin.com/in/nepo-rojas-7a528823b/",
     "GitHub": "https://github.com/niesfutbol",
     "Twitter": "https://twitter.com/niesfutbol",
 }
@@ -76,7 +76,7 @@ st.write(
 - ✔️ 7 años de experiencia estrayendo información de los datos
 - ✔️ 20 años de experiencia programando y modelando en Fortran, MatLab, Python y R
 - ✔️ Excelente conocimiento de estadística y sus aplicaciones
-- ✔️ Excelente habilidades del trabajo colaborativo
+- ✔️ Excelente habilidades del trabajo collaborativo
 """
 )
 
@@ -88,8 +88,8 @@ st.write(
     """
 - 👩‍💻 Programacón: Python y R
 - 📊 Visualización de datos: Plotly, Bokeh, ggplot y LockerStudio
-- 📚 Modelación: Logistic regression, linear regression, decition trees
-- 🗄️ Databases: Postgres, MongoDB, MySQL
+- 📚 Modelación: sí (Regresión Lineal, Logistic regression, linear regression, decition trees)
+- 🗄️ CI/CD: TDD, Pruebas automáticas, Docker, Canales de entrega continua 
 """
 )
 
@@ -116,9 +116,8 @@ st.write("🚧", "**Profesor por asignaturas | Universidad Autónoma del Estodo 
 st.write("Ene/2014 - Ene/2017")
 st.write(
     """
-- ► Built data models and maps to generate meaningful insights from customer data, boosting successful sales eﬀorts by 12%
-- ► Modeled targets likely to renew, and presented analysis to leadership, which led to a YoY revenue increase of $300K
-- ► Compiled, studied, and inferred large amounts of data, modeling information to drive auto policy pricing
+- ► Física 1, Termodinámica
+- ► Probabilidad y estadística, Transformadas integrales
 """
 )
 
