@@ -100,8 +100,8 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "**Senior Data Analyst | Ross Industries**")
-st.write("02/2020 - Present")
+st.write("🚧", "**Científico de Datos | GECI**")
+st.write("Feb/2017 - Present")
 st.write(
     """
 - ► Used PowerBI and SQL to redeﬁne and track KPIs surrounding marketing initiatives, and supplied recommendations to boost landing page conversion rate by 38%
@@ -112,8 +112,8 @@ st.write(
 
 # --- JOB 2
 st.write('\n')
-st.write("🚧", "**Data Analyst | Liberty Mutual Insurance**")
-st.write("01/2018 - 02/2022")
+st.write("🚧", "**Profesor por asignaturas | Universidad Autónoma del Estodo de Morelos**")
+st.write("Ene/2014 - Ene/2017")
 st.write(
     """
 - ► Built data models and maps to generate meaningful insights from customer data, boosting successful sales eﬀorts by 12%
@@ -122,18 +122,14 @@ st.write(
 """
 )
 
-# --- JOB 3
 st.write('\n')
-st.write("🚧", "**Data Analyst | Chegg**")
-st.write("04/2015 - 01/2018")
+st.subheader("Educación")
 st.write(
     """
-- ► Devised KPIs using SQL across company website in collaboration with cross-functional teams to achieve a 120% jump in organic traﬃc
-- ► Analyzed, documented, and reported user survey results to improve customer communication processes by 18%
-- ► Collaborated with analyst team to oversee end-to-end process surrounding customers' return data
-"""
+    - 🎓 **Licenciado en Física** | Universidad de Sonora (2014-2010)
+    - 🎓 **Maestro en Ciencias Físicas** | Universidad Nacional Autónoma de México (2011-2013)
+    """
 )
-
 
 # --- Projects & Accomplishments ---
 st.write('\n')
