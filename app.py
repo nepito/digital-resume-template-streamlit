@@ -70,7 +70,7 @@ for index, (platform, link) in enumerate(SOCIAL_MEDIA.items()):
 
 # --- EXPERIENCE & QUALIFICATIONS ---
 st.write('\n')
-st.subheader("Experiencia & Habilidades")
+st.subheader("Experiencia y habilidades")
 st.write(
     """
 - ✔️ 7 años de experiencia estrayendo información de los datos
@@ -101,7 +101,7 @@ st.write("---")
 
 # --- JOB 1
 st.write("🚧", "**Científico de Datos | GECI**")
-st.write("Feb/2017 - Present")
+st.write("Feb/2017 - Presente")
 st.write(
     """
 - ► Used PowerBI and SQL to redeﬁne and track KPIs surrounding marketing initiatives, and supplied recommendations to boost landing page conversion rate by 38%
