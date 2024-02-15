@@ -71,9 +71,9 @@ st.write('\n')
 st.subheader("Experiencia y habilidades")
 st.write(
     """
-- ✔️ 7 años de experiencia extrayendo información de los datos
-- ✔️ 20 años de experiencia programando en Fortran, MatLab, Python y R
-- ✔️ 20 años de experiencia con métodos numéricos y modelación estadística
+- ✔️ 7 años de experiencia profesional extrayendo información de los datos
+- ✔️ 20 años de experiencia programando en Python, R, Fortran y MATLAB
+- ✔️ 20 años de experiencia en modelación estadística y simulación computacional
 - ✔️ Excelente conocimiento de estadística y sus aplicaciones
 - ✔️ Excelente habilidades en trabajo colaborativo
 """
@@ -118,7 +118,7 @@ st.write(
 
 # --- JOB 2
 st.write('\n')
-st.write("🚧", "**Profesor por asignaturas | Universidad Autónoma del Estodo de Morelos**")
+st.write("🚧", "**Profesor por asignaturas | Universidad Autónoma del Estado de Morelos**")
 st.write("Ene/2014 - Ene/2017")
 st.write(
     """
@@ -132,8 +132,8 @@ st.subheader("Educación")
 st.write("---")
 st.write(
     """
-    - 🎓 **Licenciado en Física** | Universidad de Sonora (2014-2010)
     - 🎓 **Maestro en Ciencias Físicas** | Universidad Nacional Autónoma de México (2011-2013)
+    - 🎓 **Licenciado en Física** | Universidad de Sonora (2014-2010)
     """
 )
 
