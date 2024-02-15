@@ -16,7 +16,7 @@ PAGE_TITLE = "CV | Nepo Rojas"
 PAGE_ICON = ":wave:"
 NAME = "Nepo Rojas"
 DESCRIPTION = """
-Científico de Datos.
+Científico de Datos y apasionado del fútlbol.
 """
 EMAIL = "nepo@nies.futbol"
 SOCIAL_MEDIA = {
