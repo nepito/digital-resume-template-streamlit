@@ -106,7 +106,7 @@ st.subheader("Experiencia Laboral")
 st.write("---")
 
 # --- JOB 1
-st.write("🚧", "**Científico de Datos | GECI**")
+st.write("👩🏿‍🔬", "**Científico de Datos | GECI**")
 st.write("Feb/2017 - Presente")
 st.write(
     """
@@ -118,7 +118,7 @@ st.write(
 
 # --- JOB 2
 st.write('\n')
-st.write("🚧", "**Profesor por asignaturas | Universidad Autónoma del Estado de Morelos**")
+st.write("👩🏿‍🏫", "**Profesor por asignaturas | Universidad Autónoma del Estado de Morelos**")
 st.write("Ene/2014 - Ene/2017")
 st.write(
     """
