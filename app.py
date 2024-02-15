@@ -110,7 +110,7 @@ st.write("🚧", "**Científico de Datos | GECI**")
 st.write("Feb/2017 - Presente")
 st.write(
     """
-- ► Predección del efecto de diferentes escenarios sobre las poblaciones ecológicas que protegemos
+- ► Predicción del efecto de diferentes escenarios sobre las poblaciones de especies que protegemos
 - ► Evaluación cuantitativa del desempeño de los proyectos de restauración
 - ► Optimización los recursos para la conservación
 """
