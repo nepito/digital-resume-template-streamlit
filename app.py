@@ -13,10 +13,10 @@ profile_pic = current_dir / "assets" / "para_cv.png"
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "CV | Nepo Rojas"
-PAGE_ICON = ":wave:"
+PAGE_ICON = "🥅"
 NAME = "Nepo Rojas"
 DESCRIPTION = """
-Científico de Datos y apasionado del fútlbol.
+Científico de Datos y apasionado del fútbol.
 """
 EMAIL = "nepo@nies.futbol"
 SOCIAL_MEDIA = {
