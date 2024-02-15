@@ -26,10 +26,8 @@ SOCIAL_MEDIA = {
     "Twitter": "https://twitter.com/niesfutbol",
 }
 PROJECTS = {
-    "🏆 Análisis de fútbol y mercados de apuestas - ": "https://www.nies.futbol/",
+    "🏆 Análisis de fútbol y mercados de apuestas": "https://www.nies.futbol/",
     "🏆 Tipster": "https://predictions-nies.streamlit.app/",
-    "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
-    "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
 }
 
 
