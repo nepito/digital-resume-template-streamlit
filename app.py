@@ -71,7 +71,7 @@ st.write('\n')
 st.subheader("Experiencia y habilidades")
 st.write(
     """
-- ✔️ 7 años de experiencia estrayendo información de los datos
+- ✔️ 7 años de experiencia extrayendo información de los datos
 - ✔️ 20 años de experiencia programando en Fortran, MatLab, Python y R
 - ✔️ 20 años de experiencia con métodos numéricos y modelación estadística
 - ✔️ Excelente conocimiento de estadística y sus aplicaciones
