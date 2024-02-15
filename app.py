@@ -144,11 +144,14 @@ st.subheader("Cursos de Visorías y Análisis de Datos")
 st.write("---")
 st.write(
     """
-    - ⚽ **Introduction Into Football Scouting** | Professional Football Scouts Association (2023)
-    - ⚽ **Level 1 Technical Scouting In Football** | Professional Football Scouts Association (2023)
-    - ⚽ **Level 1 Opposition Analysis In Football** | Professional Football Scouts Association (2023)
-    - ⚽ **Level 1 Data Analysis In Football** | Professional Football Scouts Association (2023)
-    - ⚽ **Level 1 Talent Identification In Football** | Professional Football Scouts Association (2023)
+    ### Professional Football Scouts Association (PFSA)
+    - ⚽ **Introduction Into Football Scouting** | PFSA (2023)
+    - ⚽ **Level 1 Technical Scouting In Football** | PFSA (2023)
+    - ⚽ **Level 1 Opposition Analysis In Football** | PFSA (2023)
+    - ⚽ **Level 1 Data Analysis In Football** | PFSA (2023)
+    - ⚽ **Level 1 Talent Identification In Football** | PFSA (2023)
+    ### edX
+    - ⚽ **Valoración de Futbolistas con el Método AHP** | UPValenciaX (2022)
     """
 )
 
