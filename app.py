@@ -112,9 +112,9 @@ st.write("🚧", "**Científico de Datos | GECI**")
 st.write("Feb/2017 - Presente")
 st.write(
     """
-- ► Modelado de ecológico bao diferentes escenarios
-- ► Led a team of 4 analysts to brainstorm potential marketing and sales improvements, and implemented A/B tests to generate 15% more client leads
-- ► Evaluación de la acciones ecológicas implementadas 
+- ► Predección del efecto de diferentes escenarios sobre las poblaciones ecológicas que protegemos
+- ► Evaluación cuantitativa del desempeño de los proyectos de restauración
+- ► Optimización los recursos para la conservación
 """
 )
 
