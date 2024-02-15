@@ -87,7 +87,7 @@ st.write(
     """
 - 👩‍💻 Programacón: Python y R
 - 📊 Visualización de datos: Plotly, Bokeh, ggplot y LockerStudio
-- 📚 Aprendizaje automatizado y simulación computacional
+- 📚 Simulación computacional y aprendizaje automatizado
 - 🗄️ CI/CD: TDD, Pruebas automáticas, Docker y Entrega continua 
 """
 )
