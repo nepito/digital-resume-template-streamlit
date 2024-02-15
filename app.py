@@ -99,6 +99,21 @@ st.write("---")
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
 
+st.write('\n')
+st.subheader("Cursos de Visorías y Análisis de Datos")
+st.write("---")
+st.write(
+    """
+    ### Professional Football Scouts Association (PFSA)
+    - ⚽ **Introduction Into Football Scouting** | PFSA (2023)
+    - ⚽ **Level 1 Technical Scouting In Football** | PFSA (2023)
+    - ⚽ **Level 1 Opposition Analysis In Football** | PFSA (2023)
+    - ⚽ **Level 1 Data Analysis In Football** | PFSA (2023)
+    - ⚽ **Level 1 Talent Identification In Football** | PFSA (2023)
+    ### edX
+    - ⚽ **Valoración de Futbolistas con el Método AHP** | UPValenciaX (2022)
+    """
+)
 
 # --- WORK HISTORY ---
 st.write('\n')
@@ -136,20 +151,3 @@ st.write(
     - 🎓 **Licenciado en Física** | Universidad de Sonora (2014-2010)
     """
 )
-
-st.write('\n')
-st.subheader("Cursos de Visorías y Análisis de Datos")
-st.write("---")
-st.write(
-    """
-    ### Professional Football Scouts Association (PFSA)
-    - ⚽ **Introduction Into Football Scouting** | PFSA (2023)
-    - ⚽ **Level 1 Technical Scouting In Football** | PFSA (2023)
-    - ⚽ **Level 1 Opposition Analysis In Football** | PFSA (2023)
-    - ⚽ **Level 1 Data Analysis In Football** | PFSA (2023)
-    - ⚽ **Level 1 Talent Identification In Football** | PFSA (2023)
-    ### edX
-    - ⚽ **Valoración de Futbolistas con el Método AHP** | UPValenciaX (2022)
-    """
-)
-
