@@ -18,7 +18,7 @@ NAME = "Nepo Rojas"
 DESCRIPTION = """
 Científico de Datos.
 """
-EMAIL = "nepo.rojas@gmail.com"
+EMAIL = "nepo@nies.futbol"
 SOCIAL_MEDIA = {
 #    "YouTube": "https://youtube.com/c/codingisfun",
     "LinkedIn": "https://www.linkedin.com/in/nepo-rojas-7a528823b/",
@@ -26,8 +26,8 @@ SOCIAL_MEDIA = {
     "Twitter": "https://twitter.com/niesfutbol",
 }
 PROJECTS = {
-    "🏆 Sales Dashboard - Comparing sales across three stores": "https://youtu.be/Sb0A9i6d320",
-    "🏆 Income and Expense Tracker - Web app with NoSQL database": "https://youtu.be/3egaMfE9388",
+    "🏆 Análisis de fútbol y mercados de apuestas - ": "https://www.nies.futbol/",
+    "🏆 Tipster": "https://predictions-nies.streamlit.app/",
     "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
     "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
 }
@@ -74,22 +74,23 @@ st.subheader("Experiencia y habilidades")
 st.write(
     """
 - ✔️ 7 años de experiencia estrayendo información de los datos
-- ✔️ 20 años de experiencia programando y modelando en Fortran, MatLab, Python y R
+- ✔️ 20 años de experiencia programando en Fortran, MatLab, Python y R
+- ✔️ 20 años de experiencia con métodos numéricos y modelación estadística
 - ✔️ Excelente conocimiento de estadística y sus aplicaciones
-- ✔️ Excelente habilidades del trabajo collaborativo
+- ✔️ Excelente habilidades en trabajo colaborativo
 """
 )
 
 
 # --- SKILLS ---
 st.write('\n')
-st.subheader("Hard Skills")
+st.subheader("Habilidades técnicas")
 st.write(
     """
 - 👩‍💻 Programacón: Python y R
 - 📊 Visualización de datos: Plotly, Bokeh, ggplot y LockerStudio
-- 📚 Modelación: sí (Regresión Lineal, Logistic regression, linear regression, decition trees)
-- 🗄️ CI/CD: TDD, Pruebas automáticas, Docker, Canales de entrega continua 
+- 📚 Modelación estadística y aprendizaje automatizado
+- 🗄️ CI/CD: TDD, Pruebas automáticas, Docker y Entrega continua 
 """
 )
 
@@ -104,9 +105,9 @@ st.write("🚧", "**Científico de Datos | GECI**")
 st.write("Feb/2017 - Presente")
 st.write(
     """
-- ► Used PowerBI and SQL to redeﬁne and track KPIs surrounding marketing initiatives, and supplied recommendations to boost landing page conversion rate by 38%
+- ► Modelado de ecológico bao diferentes escenarios
 - ► Led a team of 4 analysts to brainstorm potential marketing and sales improvements, and implemented A/B tests to generate 15% more client leads
-- ► Redesigned data model through iterations that improved predictions by 12%
+- ► Evaluación de la acciones ecológicas implementadas 
 """
 )
 
