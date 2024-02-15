@@ -94,6 +94,13 @@ st.write(
 """
 )
 
+# --- Projects & Accomplishments ---
+st.write('\n')
+st.subheader("Projects & Accomplishments")
+st.write("---")
+for project, link in PROJECTS.items():
+    st.write(f"[{project}]({link})")
+
 
 # --- WORK HISTORY ---
 st.write('\n')
@@ -132,9 +139,16 @@ st.write(
     """
 )
 
-# --- Projects & Accomplishments ---
 st.write('\n')
-st.subheader("Projects & Accomplishments")
+st.subheader("Cursos de Visorías y Análisis de Datos")
 st.write("---")
-for project, link in PROJECTS.items():
-    st.write(f"[{project}]({link})")
+st.write(
+    """
+    - ⚽ **Introduction Into Football Scouting** | Professional Football Scouts Association (2023)
+    - ⚽ **Level 1 Technical Scouting In Football** | Professional Football Scouts Association (2023)
+    - ⚽ **Level 1 Opposition Analysis In Football** | Professional Football Scouts Association (2023)
+    - ⚽ **Level 1 Data Analysis In Football** | Professional Football Scouts Association (2023)
+    - ⚽ **Level 1 Talent Identification In Football** | Professional Football Scouts Association (2023)
+    """
+)
+
