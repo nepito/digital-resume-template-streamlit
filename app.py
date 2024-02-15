@@ -28,6 +28,8 @@ SOCIAL_MEDIA = {
 PROJECTS = {
     "🏆 Análisis de fútbol y mercados de apuestas": "https://www.nies.futbol/",
     "🏆 Tipster. Predicciones para los partidos de las principales liga europeas": "https://predictions-nies.streamlit.app/",
+    "🏆 Gráficas de desempeño de jugadores y jugadoras en ligas mexicanas": "https://nies-jugadores-mx.streamlit.app/",
+
 }
 
 
