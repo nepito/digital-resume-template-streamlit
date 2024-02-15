@@ -73,7 +73,7 @@ st.write(
     """
 - ✔️ 7 años de experiencia profesional extrayendo información de los datos
 - ✔️ 20 años de experiencia programando en Python, R, Fortran y MATLAB
-- ✔️ 20 años de experiencia en modelación estadística y simulación computacional
+- ✔️ 20 años de experiencia en modelación estadística
 - ✔️ Excelente conocimiento de estadística y sus aplicaciones
 - ✔️ Excelente habilidades en trabajo colaborativo
 """
@@ -87,7 +87,7 @@ st.write(
     """
 - 👩‍💻 Programacón: Python y R
 - 📊 Visualización de datos: Plotly, Bokeh, ggplot y LockerStudio
-- 📚 Modelación estadística y aprendizaje automatizado
+- 📚 Aprendizaje automatizado y simulación computacional
 - 🗄️ CI/CD: TDD, Pruebas automáticas, Docker y Entrega continua 
 """
 )
