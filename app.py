@@ -112,6 +112,7 @@ st.write(
     - ⚽ **Level 1 Opposition Analysis In Football** | PFSA (2023)
     - ⚽ **Level 1 Data Analysis In Football** | PFSA (2023)
     - ⚽ **Level 1 Talent Identification In Football** | PFSA (2023)
+    - ⚽ **Level 1 Performance Analysis In Football** | PFSA (2024)
     ### edX
     - ⚽ **Valoración de Futbolistas con el Método AHP** | UPValenciaX (2022)
     """
