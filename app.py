@@ -20,7 +20,6 @@ Científico de Datos y apasionado del fútbol.
 """
 EMAIL = "nepo@nies.futbol"
 SOCIAL_MEDIA = {
-#    "YouTube": "https://youtube.com/c/codingisfun",
     "LinkedIn": "https://www.linkedin.com/in/nepo-rojas-7a528823b/",
     "GitHub": "https://github.com/niesfutbol",
     "Twitter": "https://twitter.com/niesfutbol",
@@ -106,6 +105,11 @@ st.subheader("Cursos de Visorías y Análisis de Datos")
 st.write("---")
 st.write(
     """
+    ### Barca Innovation Hub
+    - ⚽ **Metodología de la Observación en Fútbol Formativo** | Diplomado en Analista Táctico en Fútbol (2024)
+    - ⚽ **Introducción a la Programación en R para Análisis de Datos Físicos** | Certificado en Análisis de Datos Físicos con R para Sport Scientists (2024)
+    ### Evolucion CONMEBOL
+    - ⚽ **Analista de Rendimiento en Fútbol** | Evolucion CONMEBOL (2024)
     ### Professional Football Scouts Association (PFSA)
     - ⚽ **Introduction Into Football Scouting** | PFSA (2023)
     - ⚽ **Level 1 Technical Scouting In Football** | PFSA (2023)
