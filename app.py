@@ -105,6 +105,7 @@ st.write("---")
 st.write(
     """
     ### Barca Innovation Hub
+    - ⚽ **Análisis de partido** | Diplomado en Analista Táctico en Fútbol (2024)
     - ⚽ **Metodología de la Observación en Fútbol Formativo** | Diplomado en Analista Táctico en Fútbol (2024)
     - ⚽ **Introducción a la Programación en R para Análisis de Datos Físicos** | Certificado en Análisis de Datos Físicos con R para Sport Scientists (2024)
     ### Evolucion CONMEBOL
