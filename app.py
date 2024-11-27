@@ -159,3 +159,6 @@ st.write(
     - 🎓 **Licenciado en Física** | Universidad de Sonora (2014-2010)
     """
 )
+
+st.write("---")
+st.write("🗓️ 2024-11-26")
