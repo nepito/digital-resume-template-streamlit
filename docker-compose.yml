@@ -1,0 +1,20 @@
+version: "3.1"
+services:
+  nies:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: nepolin/digital_cv:latest
+    command: bash
+    volumes:
+      - $PWD:/workdir
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: nepolin/digital_cv:latest
+    entrypoint: ["streamlit", "run", "app.py", "--server.port=8502", "--server.address=0.0.0.0"]
+    volumes:
+      - $PWD:/workdir
+    ports:
+      - "8502:8502"
