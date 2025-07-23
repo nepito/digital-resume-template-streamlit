@@ -129,8 +129,18 @@ st.subheader("Experiencia Laboral")
 st.write("---")
 
 # --- JOB 1
+st.write("👩🏿‍🔬", "**Científico de Datos | Coordinación Ejecutiva de Administración y Finanzas, Ejecutivo del Estado**")
+st.write("Feb/2025 - Presente")
+st.write(
+    """
+- ► Automatización de proceso administrativos
+- ► Investigación de políticas públicas
+"""
+)
+
+# --- JOB 1
 st.write("👩🏿‍🔬", "**Científico de Datos | GECI**")
-st.write("Feb/2017 - Presente")
+st.write("Feb/2017 - Feb/2025")
 st.write(
     """
 - ► Predicción del efecto de diferentes escenarios sobre las poblaciones de especies que protegemos
